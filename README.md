@@ -9,5 +9,5 @@
 - [Rinaldi Vincent](https://github.com/vincentrinaldi)
 
 #### Project
-- [Rinaldi Vincent](https://github.com/vincentrinaldi)
-- [Mortiniera Thévie](https://github.com/Mortiniera)
+- *pps-student-vrinaldi* : [Rinaldi Vincent](https://github.com/vincentrinaldi)
+- *pps-team-croset-team* : [Rinaldi Vincent](https://github.com/vincentrinaldi) & [Mortiniera Thévie](https://github.com/Mortiniera)
